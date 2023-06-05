@@ -1,3 +1,6 @@
+# This is not the main repo for the game, it's github.com/woaitsAryan/runaway but i had to private that to secure my firebase config.
+## This code has everything except the firebase config, so use yours at src/pages/leaderboard.jsx
+
 # Create React App
 
 This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
